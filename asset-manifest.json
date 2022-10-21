@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/world-clock_app/static/css/main.5caa26b4.css",
+    "main.js": "/world-clock_app/static/js/main.afb7597b.js",
+    "index.html": "/world-clock_app/index.html",
+    "main.5caa26b4.css.map": "/world-clock_app/static/css/main.5caa26b4.css.map",
+    "main.afb7597b.js.map": "/world-clock_app/static/js/main.afb7597b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5caa26b4.css",
+    "static/js/main.afb7597b.js"
+  ]
+}
